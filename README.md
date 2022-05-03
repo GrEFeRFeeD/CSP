@@ -1,5 +1,5 @@
 # CSP
-CSP is the system which unites customers, shops and providers to automatize production providing, ordering and purchasing.
+CSP is the system which unites customers, shops and providers to automatize production providing, purchasing and selling.
 
 Whole CSP system includes next partly-independent systems:
 <ul>
